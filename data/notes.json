@@ -1,38 +1,14 @@
 [
   {
-    "title": "title2 ",
-    "body": "body2",
-    "createdAt": "2024-10-29T12:13:45.435Z",
-    "lastUpdatedAt": "2024-10-29T12:13:45.435Z"
+    "title": "titile 7",
+    "body": "body 7",
+    "createdAt": "2024-10-29T15:47:10.564Z",
+    "lastUpdatedAt": "2024-10-29T15:47:10.564Z"
   },
   {
-    "title": "title2 ",
-    "body": "body3",
-    "createdAt": "2024-10-29T12:40:24.624Z",
-    "lastUpdatedAt": "2024-10-29T12:40:24.624Z"
-  },
-  {
-    "title": "title4 ",
-    "body": "body4",
-    "createdAt": "2024-10-29T12:41:07.677Z",
-    "lastUpdatedAt": "2024-10-29T12:41:07.677Z"
-  },
-  {
-    "title": "tittle",
-    "body": "body 5",
-    "createdAt": "2024-10-29T13:34:18.862Z",
-    "lastUpdatedAt": "2024-10-29T13:34:18.862Z"
-  },
-  {
-    "title": "tittle5",
-    "body": "body 5",
-    "createdAt": "2024-10-29T13:35:18.077Z",
-    "lastUpdatedAt": "2024-10-29T13:35:18.077Z"
-  },
-  {
-    "title": "tittle6",
-    "body": "body 5",
-    "createdAt": "2024-10-29T14:06:31.382Z",
-    "lastUpdatedAt": "2024-10-29T14:06:31.382Z"
+    "title": "Introduction to node js",
+    "body": "Node js is fun especially when combined with express js",
+    "createdAt": "2024-10-29T15:52:32.568Z",
+    "lastUpdatedAt": "2024-10-29T15:52:32.568Z"
   }
 ]
