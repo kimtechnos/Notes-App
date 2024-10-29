@@ -35,6 +35,11 @@ program
       notes = [];
     }
     notes = JSON.parse(loadedNotes);
+    const noteExists = notes.find((currentNote) => currentNote.title === title);
+    if (noteExists) {
+      console.log(`Note with  title '${title}' already exists.`);
+      return;
+    }
 
     notes.push(newNote);
     fs.writeFileSync("./data/notes.json", JSON.stringify(notes));
