@@ -2,6 +2,7 @@ import fs, { read } from "fs";
 import { Command } from "commander";
 import chalk from "chalk";
 import { title } from "process";
+import loadNotes from "./utils/loadnotes.js";
 const program = new Command();
 
 program
